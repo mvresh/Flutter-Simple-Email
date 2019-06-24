@@ -2,7 +2,8 @@
 
 Simple Email client application
 
-## Workout from Course [Flutter in Practice with Zaiste](https://www.youtube.com/watch?v=MbUey9oquuU&list=PLhXZp00uXBk5TSY6YOdmpzp1yG3QbFvrN)
+## Workout from Course 
+[Flutter in Practice with Zaiste](https://www.youtube.com/watch?v=MbUey9oquuU&list=PLhXZp00uXBk5TSY6YOdmpzp1yG3QbFvrN)
 
 ---
 
