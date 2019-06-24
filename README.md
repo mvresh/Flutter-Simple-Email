@@ -1,10 +1,12 @@
 # email_app
 
-Simple Email application.
+Simple Email client application
 
-## Getting Started
+## Workout from Course [Flutter in Practice with Zaiste](https://www.youtube.com/watch?v=MbUey9oquuU&list=PLhXZp00uXBk5TSY6YOdmpzp1yG3QbFvrN)
 
-This project is a starting point for a Flutter application.
+---
+
+## Getting Started with Flutter
 
 A few resources to get you started if this is your first Flutter project:
 
